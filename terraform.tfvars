@@ -1,0 +1,1 @@
+instance_name = "my_ec2_instance"
