@@ -1,14 +1,14 @@
 variable "instance_name" {
-    description = "The name of the instance"
-    type = string
+  description = "The name of the instance"
+  type        = string
 }
 
 variable "server_port" {
   description = "Http port for busybox"
-  type = number
+  type        = number
 }
 
 variable "kp" {
   description = "Key pair name"
-  type = string
+  type        = string
 }
